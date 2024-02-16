@@ -1,5 +1,6 @@
 # UX Portfolio
 Compilation of multiple projects utilizing the user-centered design process
+
 Link to dynamic portfolio: https://docs.google.com/presentation/d/1Fhf0216VH4Rc-yQHjNFKS8YN4gfARUDDXRukPyPfCPM/edit?usp=sharing
 
 - Portfolio-1: Full portfolio in PDF form, static (videos found below)
